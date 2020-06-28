@@ -1,0 +1,14 @@
+
+syntax: glob
+
+.idea
+*.swp
+.hg
+*.suo
+*.sdf
+*.opensdf
+BuildOutput
+BuildTemp
+
+
+
